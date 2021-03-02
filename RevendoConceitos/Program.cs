@@ -19,6 +19,7 @@ namespace RevendoConceitos
             Console.WriteLine("Seu nome é: " + texto);
             Console.WriteLine("Só ninja programa em C#");
             Console.WriteLine(Somar(5, 5));
+            Console.WriteLine(Multiplicar(5, 5));
             Console.ReadLine();
 
         }
@@ -26,6 +27,12 @@ namespace RevendoConceitos
         static int Somar(int n1, int n2)
         {
             int r = n1 + n2;
+            return r;
+        }
+
+        static int Multiplicar(int n1, int n2)
+        {
+            int r = n1 * n2;
             return r;
         }
 
