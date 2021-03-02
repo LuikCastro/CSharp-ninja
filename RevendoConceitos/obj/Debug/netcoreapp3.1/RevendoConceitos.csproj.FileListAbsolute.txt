@@ -1,0 +1,13 @@
+C:\Users\castr\Desktop\GITHUB\CSharp-ninja\RevendoConceitos\bin\Debug\netcoreapp3.1\RevendoConceitos.exe
+C:\Users\castr\Desktop\GITHUB\CSharp-ninja\RevendoConceitos\bin\Debug\netcoreapp3.1\RevendoConceitos.deps.json
+C:\Users\castr\Desktop\GITHUB\CSharp-ninja\RevendoConceitos\bin\Debug\netcoreapp3.1\RevendoConceitos.runtimeconfig.json
+C:\Users\castr\Desktop\GITHUB\CSharp-ninja\RevendoConceitos\bin\Debug\netcoreapp3.1\RevendoConceitos.runtimeconfig.dev.json
+C:\Users\castr\Desktop\GITHUB\CSharp-ninja\RevendoConceitos\bin\Debug\netcoreapp3.1\RevendoConceitos.dll
+C:\Users\castr\Desktop\GITHUB\CSharp-ninja\RevendoConceitos\bin\Debug\netcoreapp3.1\RevendoConceitos.pdb
+C:\Users\castr\Desktop\GITHUB\CSharp-ninja\RevendoConceitos\obj\Debug\netcoreapp3.1\RevendoConceitos.csprojAssemblyReference.cache
+C:\Users\castr\Desktop\GITHUB\CSharp-ninja\RevendoConceitos\obj\Debug\netcoreapp3.1\RevendoConceitos.AssemblyInfoInputs.cache
+C:\Users\castr\Desktop\GITHUB\CSharp-ninja\RevendoConceitos\obj\Debug\netcoreapp3.1\RevendoConceitos.AssemblyInfo.cs
+C:\Users\castr\Desktop\GITHUB\CSharp-ninja\RevendoConceitos\obj\Debug\netcoreapp3.1\RevendoConceitos.csproj.CoreCompileInputs.cache
+C:\Users\castr\Desktop\GITHUB\CSharp-ninja\RevendoConceitos\obj\Debug\netcoreapp3.1\RevendoConceitos.dll
+C:\Users\castr\Desktop\GITHUB\CSharp-ninja\RevendoConceitos\obj\Debug\netcoreapp3.1\RevendoConceitos.pdb
+C:\Users\castr\Desktop\GITHUB\CSharp-ninja\RevendoConceitos\obj\Debug\netcoreapp3.1\RevendoConceitos.genruntimeconfig.cache
