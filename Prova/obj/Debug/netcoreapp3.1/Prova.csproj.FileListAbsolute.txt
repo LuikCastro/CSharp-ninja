@@ -1,0 +1,13 @@
+D:\GITHUB\CSharp-ninja\Prova\bin\Debug\netcoreapp3.1\Prova.exe
+D:\GITHUB\CSharp-ninja\Prova\bin\Debug\netcoreapp3.1\Prova.deps.json
+D:\GITHUB\CSharp-ninja\Prova\bin\Debug\netcoreapp3.1\Prova.runtimeconfig.json
+D:\GITHUB\CSharp-ninja\Prova\bin\Debug\netcoreapp3.1\Prova.runtimeconfig.dev.json
+D:\GITHUB\CSharp-ninja\Prova\bin\Debug\netcoreapp3.1\Prova.dll
+D:\GITHUB\CSharp-ninja\Prova\bin\Debug\netcoreapp3.1\Prova.pdb
+D:\GITHUB\CSharp-ninja\Prova\obj\Debug\netcoreapp3.1\Prova.csprojAssemblyReference.cache
+D:\GITHUB\CSharp-ninja\Prova\obj\Debug\netcoreapp3.1\Prova.AssemblyInfoInputs.cache
+D:\GITHUB\CSharp-ninja\Prova\obj\Debug\netcoreapp3.1\Prova.AssemblyInfo.cs
+D:\GITHUB\CSharp-ninja\Prova\obj\Debug\netcoreapp3.1\Prova.csproj.CoreCompileInputs.cache
+D:\GITHUB\CSharp-ninja\Prova\obj\Debug\netcoreapp3.1\Prova.dll
+D:\GITHUB\CSharp-ninja\Prova\obj\Debug\netcoreapp3.1\Prova.pdb
+D:\GITHUB\CSharp-ninja\Prova\obj\Debug\netcoreapp3.1\Prova.genruntimeconfig.cache
